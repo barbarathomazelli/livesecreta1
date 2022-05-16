@@ -1,5 +1,13 @@
 * {
     margin: 5px;
-    font-family: 'Courier New', Courier, monospace;
-    color: rgb(83, 205, 52);
+    color: rgb(131, 3, 3);
+}
+
+@font-face {
+    font-family:'ssf4';
+    src: url(src/fontes/SSF4_ABUKET.woff);
+}
+@font-face {
+    font-family:'command';
+    src: url(src/fontes/PILOT_COMMAND.otf);
 }
